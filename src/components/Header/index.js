@@ -10,11 +10,11 @@ export default function Header() {
   const cartSize = useSelector(state => state.cart.length);
   return (
     <Container>
-      <Link to="/">
+      <Link to="/lojaSapatos/">
         <img src={logo} alt="shoes" />
       </Link>
 
-      <Cart to="/cart">
+      <Cart to="/lojaSapatos/cart">
         <div>
           <strong>Meu carrinho</strong>
           <span>{`${cartSize} itens`}</span>
