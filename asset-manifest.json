@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/lojaSapatos/static/js/main.db641f67.chunk.js",
+    "main.js.map": "/lojaSapatos/static/js/main.db641f67.chunk.js.map",
+    "runtime-main.js": "/lojaSapatos/static/js/runtime-main.aec99b4a.js",
+    "runtime-main.js.map": "/lojaSapatos/static/js/runtime-main.aec99b4a.js.map",
+    "static/css/2.39017165.chunk.css": "/lojaSapatos/static/css/2.39017165.chunk.css",
+    "static/js/2.1f92f966.chunk.js": "/lojaSapatos/static/js/2.1f92f966.chunk.js",
+    "static/js/2.1f92f966.chunk.js.map": "/lojaSapatos/static/js/2.1f92f966.chunk.js.map",
+    "index.html": "/lojaSapatos/index.html",
+    "precache-manifest.c5b3de564314dbdd7bfac7e79ae8c1a2.js": "/lojaSapatos/precache-manifest.c5b3de564314dbdd7bfac7e79ae8c1a2.js",
+    "service-worker.js": "/lojaSapatos/service-worker.js",
+    "static/css/2.39017165.chunk.css.map": "/lojaSapatos/static/css/2.39017165.chunk.css.map",
+    "static/media/background.svg": "/lojaSapatos/static/media/background.3c9a1ce5.svg",
+    "static/media/logo.svg": "/lojaSapatos/static/media/logo.879557c5.svg"
+  }
+}
