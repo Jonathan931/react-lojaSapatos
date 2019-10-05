@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f03ab890bfcf6fa94c4a120852b6d239",
+    "revision": "808cef1e736495a01c8ba0d88fbcac7f",
     "url": "/lojaSapatos/index.html"
   },
   {
-    "revision": "eab29175e0b7f51c39a2",
+    "revision": "17cc548338b51652e071",
     "url": "/lojaSapatos/static/css/2.39017165.chunk.css"
   },
   {
-    "revision": "eab29175e0b7f51c39a2",
-    "url": "/lojaSapatos/static/js/2.1f92f966.chunk.js"
+    "revision": "17cc548338b51652e071",
+    "url": "/lojaSapatos/static/js/2.987d8ba8.chunk.js"
   },
   {
-    "revision": "d4ba8465515f194f3f2e",
-    "url": "/lojaSapatos/static/js/main.84693163.chunk.js"
+    "revision": "a4e369048ae1c04f9e59",
+    "url": "/lojaSapatos/static/js/main.d9f3c766.chunk.js"
   },
   {
     "revision": "8ae0103ce875c50a6a3a",
