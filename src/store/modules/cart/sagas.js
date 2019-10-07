@@ -32,7 +32,7 @@ function* addToCart({ id }) {
       priceFormatted: formatPrice(response.data.price),
     };
     yield put(addToCartSuccess(data));
-    history.push('/lojaSapatos/cart');
+    history.push('/react-lojaSapatos/cart');
   }
 }
 

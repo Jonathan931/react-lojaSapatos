@@ -7,9 +7,9 @@ import Cart from './pages/Cart';
 export default function Routes() {
   return (
     <Switch>
-      <Route path="/lojaSapatos/" exact component={Home} />
-      <Route path="/lojaSapatos/cart" component={Cart} />
-      <Redirect to="/lojaSapatos/" />
+      <Route path="/react-lojaSapatos/" exact component={Home} />
+      <Route path="/react-lojaSapatos/cart" component={Cart} />
+      <Redirect to="/react-lojaSapatos/" />
     </Switch>
   );
 }
