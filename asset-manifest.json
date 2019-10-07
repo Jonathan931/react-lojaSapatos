@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/lojaSapatos/static/js/main.0162db0f.chunk.js",
-    "main.js.map": "/lojaSapatos/static/js/main.0162db0f.chunk.js.map",
-    "runtime-main.js": "/lojaSapatos/static/js/runtime-main.aec99b4a.js",
-    "runtime-main.js.map": "/lojaSapatos/static/js/runtime-main.aec99b4a.js.map",
-    "static/css/2.39017165.chunk.css": "/lojaSapatos/static/css/2.39017165.chunk.css",
-    "static/js/2.987d8ba8.chunk.js": "/lojaSapatos/static/js/2.987d8ba8.chunk.js",
-    "static/js/2.987d8ba8.chunk.js.map": "/lojaSapatos/static/js/2.987d8ba8.chunk.js.map",
-    "index.html": "/lojaSapatos/index.html",
-    "precache-manifest.7ee15c8421516e356a921ed6dc29c968.js": "/lojaSapatos/precache-manifest.7ee15c8421516e356a921ed6dc29c968.js",
-    "service-worker.js": "/lojaSapatos/service-worker.js",
-    "static/css/2.39017165.chunk.css.map": "/lojaSapatos/static/css/2.39017165.chunk.css.map",
-    "static/media/background.svg": "/lojaSapatos/static/media/background.3c9a1ce5.svg",
-    "static/media/logo.svg": "/lojaSapatos/static/media/logo.879557c5.svg"
+    "main.js": "/react-lojaSapatos/static/js/main.44396ae4.chunk.js",
+    "main.js.map": "/react-lojaSapatos/static/js/main.44396ae4.chunk.js.map",
+    "runtime-main.js": "/react-lojaSapatos/static/js/runtime-main.d5941acb.js",
+    "runtime-main.js.map": "/react-lojaSapatos/static/js/runtime-main.d5941acb.js.map",
+    "static/css/2.39017165.chunk.css": "/react-lojaSapatos/static/css/2.39017165.chunk.css",
+    "static/js/2.29312344.chunk.js": "/react-lojaSapatos/static/js/2.29312344.chunk.js",
+    "static/js/2.29312344.chunk.js.map": "/react-lojaSapatos/static/js/2.29312344.chunk.js.map",
+    "index.html": "/react-lojaSapatos/index.html",
+    "precache-manifest.a738b5bbb5ddb60269843930eb7099d6.js": "/react-lojaSapatos/precache-manifest.a738b5bbb5ddb60269843930eb7099d6.js",
+    "service-worker.js": "/react-lojaSapatos/service-worker.js",
+    "static/css/2.39017165.chunk.css.map": "/react-lojaSapatos/static/css/2.39017165.chunk.css.map",
+    "static/media/background.svg": "/react-lojaSapatos/static/media/background.3c9a1ce5.svg",
+    "static/media/logo.svg": "/react-lojaSapatos/static/media/logo.879557c5.svg"
   }
 }
